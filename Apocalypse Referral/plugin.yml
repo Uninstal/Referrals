@@ -1,0 +1,7 @@
+name: ApocalypseReferral
+main: org.uninstal.referral.Main
+version: 1.0
+commands:
+  ref:
+    aliases: [referral]
+    description: Main command.
